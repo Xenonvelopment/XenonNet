@@ -1,0 +1,20 @@
+// GLOBAL VARIABLES
+variable REGION {}
+
+// SUBNET VARIABLES
+variable PUBLIC_SUBNET_A {}
+variable PUBLIC_SUBNET_B {}
+variable PUBLIC_SUBNET_C {}
+variable PRIVATE_SUBNET_A {}
+variable PRIVATE_SUBNET_B {}
+variable PRIVATE_SUBNET_C {}
+
+// ROUTE TABLE VARIABLES
+variable PUBLIC_ROUTE_TABLE_A {}
+variable PUBLIC_ROUTE_TABLE_B {}
+variable PUBLIC_ROUTE_TABLE_C {}
+variable PRIVATE_ROUTE_TABLE_A {}
+variable PRIVATE_ROUTE_TABLE_B {}
+variable PRIVATE_ROUTE_TABLE_C {}
+variable S3_ENDPOINT_ID {}
+variable DYNAMODB_ENDPOINT_ID {}
